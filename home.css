@@ -1,0 +1,70 @@
+*
+{
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+.container 
+{
+    text-align: center;
+    margin-top: 20px; 
+    background-color: rgb(202, 217, 231);
+}
+
+
+.minhafoto
+{
+    border-radius: 60%;
+    border: 2px solid black;
+    justify-content: flex;
+
+}
+
+
+body
+{
+    background-color: aliceblue;
+}
+
+.menu
+{
+    background-color: rgb(202, 217, 231);
+    padding: 10px;
+}
+
+a
+{
+    text-decoration: none;
+    color: rgb(22, 90, 153);
+}
+
+a:hover
+{
+    color: rgb(230, 233, 236);
+}
+
+li 
+{
+    display: flex;
+    justify-content: center;
+    margin-right: none;
+    margin-bottom: 5px;
+}
+
+h2,h3,h4,p
+{
+    text-align: center;
+
+}
+
+
+
+
+
+
+.bebas-neue-regular 
+{
+    font-weight: 400;
+    font-style: normal;
+}
